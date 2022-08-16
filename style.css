@@ -1,0 +1,5 @@
+.logo{display: flex;justify-content: center;}
+.negrillas{font-weight: bold;}
+h1{color:rgba(196, 196, 196, 1); background-color:rgba(0, 86, 119, 1);text-align: center;}
+h2{color: rgba(0, 86, 119, 1);background-color: rgba(196, 196, 196, 1);}
+footer{background-color: rgba(0, 86, 119, 1);color:rgba(255, 255, 255, 1);text-align: center;}
